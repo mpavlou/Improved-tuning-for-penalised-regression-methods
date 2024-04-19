@@ -1,5 +1,9 @@
 # Modified tuning for penalised regression methods
 
+This work realtes to the article "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
+
+## Summary
+
 Risk prediction models fitted using maximum likelihood estimation (MLE) are often overfitted resulting in predictions that are too extreme and a calibration slope (CS) less than 1. 
 
 Penalised methods, such as Ridge and Lasso, have been suggested as a solution to this problem as they tend to shrink regression coefficients towards zero resulting in predictions closer to the average. 
