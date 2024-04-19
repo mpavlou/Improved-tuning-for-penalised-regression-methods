@@ -16,4 +16,4 @@ These problems are partly due to selecting λ using cross-validation with ‘tra
 
 We propose a modified cross-validation tuning method (‘modified tuning’) which estimates λ from a pseudo-development dataset obtained via bootstrapping from the original dataset, albeit of larger size, such that the resulting cross-validation training datasets are of the same size as the original dataset. Modified tuning can be easily implemented in standard software and is closely related to bootstrap selection of the tuning parameter (‘bootstrap tuning’). 
 
-Our evaluations with real and simulated data show that that modified and bootstrap tuning for Ridge and Lasso can substantially improve the selection of λ (Figure 1), resulting in improved CS compared to the standard tuning method (Figure 2). They also improve predictions compared to MLE. 
+Our evaluations with real and simulated data show that that modified and bootstrap tuning for Ridge and Lasso can substantially improve the selection of λ (see, for example, Figure 1), resulting in improved CS compared to the standard tuning method (see, for example, Figure 2). They also improve predictions compared to MLE. 
