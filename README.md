@@ -1,6 +1,8 @@
 # Modified tuning for penalised regression methods
 
-This work realtes to the article "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
+This work relates to the article 
+
+\it "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
 
 ## Summary
 
