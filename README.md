@@ -4,6 +4,8 @@ This work relates to the article
 
 "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
 
+published in the Biometerical Journal 
+
 ## Summary
 
 Risk prediction models fitted using maximum likelihood estimation (MLE) are often overfitted resulting in predictions that are too extreme and a calibration slope (CS) less than 1. 
