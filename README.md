@@ -4,7 +4,7 @@ This work relates to the article
 
 "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
 
-published in the \it {Biometerical Journal} 
+published in the Biometerical Journal
 
 ## Summary
 
