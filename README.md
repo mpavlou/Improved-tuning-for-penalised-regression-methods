@@ -22,7 +22,7 @@ The figure below shows that the tuning parameter tends to be higher when the num
 
 ![figure_1](https://github.com/mpavlou/Improved-tuning-for-penalised-regression-methods/assets/78787823/e39b6761-1645-4739-b1e5-3d3bd80b560e)
 
-Our evaluations with simulated data (and real data) show that tuning performed with modified cross-validation results in improvement in terms of calibration (Calibration slope closer to 1) as shown in the Figure below, compared to the standard tuning method. 
+Our evaluations with simulated data (and real data) show that tuning with modified cross-validation results in clear improvement in terms of calibration (Calibration slope closer to 1 and reduced variability) as shown in the Figure below, compared to the standard tuning method. 
 
 ![figure_2_online](https://github.com/mpavlou/Improved-tuning-for-penalised-regression-methods/assets/78787823/bb5d7f64-6367-4bb1-9a0e-533d9e554d0a)
 
