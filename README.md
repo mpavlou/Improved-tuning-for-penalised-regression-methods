@@ -17,7 +17,7 @@ The amount of shrinkage is regulated by a tuning parameter, λ, commonly selecte
 In this work we show that these problems are partly due to selecting λ using cross-validation with ‘training’ datasets of reduced size compared to the original development sample, resulting in an over-estimation of λ and hence, excessive shrinkage. 
 
 We propose a modified cross-validation tuning method (‘modified tuning’) which estimates λ from a pseudo-development dataset obtained via bootstrapping from the original dataset, albeit of larger size, such that the resulting cross-validation training datasets are of the same size as the original dataset. Modified tuning can be easily implemented in standard software and is closely related to bootstrap selection of the tuning parameter (‘bootstrap tuning’). 
+![figure_1](https://github.com/mpavlou/Improved-tuning-for-penalised-regression-methods/assets/78787823/e39b6761-1645-4739-b1e5-3d3bd80b560e)
 
 Our evaluations with real and simulated data show that that modified and bootstrap tuning for Ridge and Lasso can substantially improve the selection of λ (see, for example, Figure 1), resulting in improved CS compared to the standard tuning method (see, for example, Figure 2). They also improve predictions compared to MLE. 
 
-[figure_5.pdf](https://github.com/user-attachments/files/15985773/figure_5.pdf)
