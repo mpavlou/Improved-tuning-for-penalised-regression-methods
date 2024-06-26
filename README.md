@@ -2,7 +2,7 @@
 
 This work relates to the article 
 
-"Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
+## "Penalised regression methods with modified cross-validation and bootstrap tuning produce better prediction models" 
 
 published in the Biometerical Journal: https://doi.org/10.1002/bimj.202300245
 
